@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Birthday",
+    "number": 18,
+    "type": "gif"
+  },
+  {
+    "name": "Chat Emoji",
+    "number": 16,
+    "type": "gif"
+  },
+  {
+    "name": "Emoji",
+    "number": 24,
+    "type": "gif"
+  },
+  {
+    "name": "Emoji2",
+    "number": 38,
+    "type": "gif"
+  },
+  {
+    "name": "Love",
+    "number": 21,
+    "type": "gif"
+  },
+  {
+    "name": "Love Emoji",
+    "number": 17,
+    "type": "gif"
+  },
+  {
+    "name": "Merry Christmas",
+    "number": 23,
+    "type": "gif"
+  }
+]
